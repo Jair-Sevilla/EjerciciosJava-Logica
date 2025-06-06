@@ -14,6 +14,14 @@ public class Main {
         Persona persona = new Persona();
         persona.mayorDeEdad();
         persona.descansar(true);
+        persona.adultoMayor();
+        persona.ropaCalorOFrio();
+        persona.hambre(true);
+        persona.fiebre1();
+        persona.levantarse();
     }
 }
+//git add .
+//git commit -m "Comentario"
+//git push
 
