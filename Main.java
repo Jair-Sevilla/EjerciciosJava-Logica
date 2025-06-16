@@ -11,16 +11,20 @@ public class Main {
         //operacionesFaltantes.multiplicacion(33.5, 66.6);
         //operacionesFaltantes.division(33.5, 66.6);
 
-        Persona persona = new Persona();
-        persona.mayorDeEdad();
-        persona.descansar(true);
-        persona.adultoMayor();
-        persona.ropaCalorOFrio();
-        persona.hambre(true);
-        persona.fiebre1();
-        persona.levantarse();
+        //Persona persona = new Persona();
+        //persona.mayorDeEdad();
+        //persona.descansar(true);
+        //persona.adultoMayor();
+        //persona.ropaCalorOFrio();
+        //persona.hambre(true);
+        //persona.fiebre1();
+        //persona.levantarse();
+        //instruccionesDeControl instruccionesDeControl = new instruccionesDeControl();
+        //instruccionesDeControl.nMayor(7);
+
     }
 }
+
 //git add .
 //git commit -m "Comentario"
 //git push
