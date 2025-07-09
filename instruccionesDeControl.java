@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class instruccionesDeControl {
+    public boolean producto1;
     int numero=8;
     public static void main(String[] args){
         instruccionesDeControl instruccionesDeControl = new instruccionesDeControl();
